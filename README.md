@@ -1,4 +1,4 @@
-# costalhacks2022surfjoy
+# Coastal Hacks 2022
 Surf Joy (Real Time Wave Forecast)
 Project for [Coastal Hacks 2022](https://coastalhacks.com/)
 
