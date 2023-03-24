@@ -1,5 +1,6 @@
 # costalhacks2022surfjoy
 Surf Joy (Real Time Wave Forecast)
+Project for [Coastal Hacks 2022](https://coastalhacks.com/)
 
 ## Inspiration
 Summer is hot. Why not explore the distant coasts, breathe in some refreshing air, and ride the blue waves? 
